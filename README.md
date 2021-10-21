@@ -1,2 +1,2 @@
-# Bayesian_Inference
-This repository contains my project for the course ADVANCED STATISTICS FOR PHYSICS ANALYSIS, focusing on Bayesian Inference.
+# AS4PA
+This repository contains my exercises made during the course ADVANCED STATISTICS FOR PHYSICS ANALYSIS.
